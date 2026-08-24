@@ -2,4 +2,4 @@
 
 Private, serverless chat: end-to-end encrypted DMs, spaces and voice over pure peer-to-peer - no central server.
 
-This repo hosts only the auto-update feed for the current alpha build. Galeon updates itself; older versions are removed as new ones ship.
+This repo hosts only the auto-update feed for the current alpha build. Galeon updates itself.
